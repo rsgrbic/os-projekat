@@ -1,4 +1,4 @@
-#Operating systems project
+# Operating systems project
 
 Single threaded kernel made for a risc-V architecture made in C/C++.
 
